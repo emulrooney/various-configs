@@ -1,6 +1,13 @@
+# helix
+
+Personal [helix](https://helix-editor.com/) config.
+
+Literally just a non-default theme and running [https://yazi-rs.github.io/](Yazi) right in the app triggered with ctrl-y.
+
+
 # wezterm-config
 
-Personal [wezterm](wezterm.org) config. 
+Personal [wezterm](https://wezterm.org) config. 
 
 Mostly adapted from https://medium.com/@vladkens/from-iterm-to-wezterm-24db2ccb8dc1.
 
